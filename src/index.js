@@ -5,12 +5,14 @@ import {HashRouter, Route} from 'react-router-dom';
 
 import 'bootstrap/dist/css/bootstrap.css';
 
-import App from './App';
+import App from './components/App';
+import Home from './components/Home';
 import reportWebVitals from './reportWebVitals';
 
 ReactDOM.render(<HashRouter>
   <div>
     <Route exact path="/" component={App}/>
+    <Route path="/home" component={Home}/>
   </div>
   </HashRouter>,
   document.getElementById('root')

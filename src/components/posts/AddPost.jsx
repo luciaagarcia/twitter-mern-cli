@@ -1,14 +1,19 @@
 import React, { useState } from 'react';
 import { Card, CardTitle, Label, Button, Form, FormGroup, Input } from 'reactstrap';
+
 import { postNewPost } from "../../utils/apicalls.js";
+
 export default function AddPost(props){
+
   const [message, setMessage] = useState('');
+
   const addPost = (e) => {
     e.preventDefault();
     //Save post in database with post api call
     postNewPost(sessionStorage.getItem('email'),sessionStorage.getItem('name'), sessionStorage.getItem('image'), message)
       .then((res) => checkPOSTNewPost(res));
   }
+
   //Check the response from the server
   const checkPOSTNewPost = (res) => {
     if (res === "OK"){
@@ -18,6 +23,7 @@ export default function AddPost(props){
       //TODO Show Modal when an error adding a new post occurs
     }
   }
+
   return (
     <div>
       <Card body>

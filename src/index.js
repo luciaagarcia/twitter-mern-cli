@@ -1,13 +1,12 @@
 import React from 'react';
 import ReactDOM from 'react-dom';
 import { HashRouter, Route } from 'react-router-dom';
-
-import reportWebVitals from './reportWebVitals';
-
 import 'bootstrap/dist/css/bootstrap.css';
 
-import Home from './components/Home';
+import './index.css';
+import reportWebVitals from './reportWebVitals';
 import App from './components/App';
+import Home from './components/Home';
 
 ReactDOM.render(<HashRouter>
       <div>

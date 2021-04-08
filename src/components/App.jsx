@@ -31,7 +31,7 @@ export default function App(props){
       <Row>
         <Col>
           <Navbar color="primary" light expand="md">
-          <Media style={imgStyle} object src={MyPlaceBird} alt="Bird"/><NavbarBrand><h4 className="text-white">Twitter</h4></NavbarBrand>
+          <Media style={imgStyle} object src={MyPlaceBird} alt="Bird"/><NavbarBrand><h5 className="text-white">Twitter</h5></NavbarBrand>
             <Nav className="ml-auto" navbar>
               <NavItem>
                 {loginMessage}

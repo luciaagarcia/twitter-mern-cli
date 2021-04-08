@@ -1,0 +1,26 @@
+{
+  "files": {
+    "main.css": "/twitter-mern-cli/static/css/main.c39df43f.chunk.css",
+    "main.js": "/twitter-mern-cli/static/js/main.18b3f1dd.chunk.js",
+    "main.js.map": "/twitter-mern-cli/static/js/main.18b3f1dd.chunk.js.map",
+    "runtime-main.js": "/twitter-mern-cli/static/js/runtime-main.42fef3e5.js",
+    "runtime-main.js.map": "/twitter-mern-cli/static/js/runtime-main.42fef3e5.js.map",
+    "static/css/2.ef9168ec.chunk.css": "/twitter-mern-cli/static/css/2.ef9168ec.chunk.css",
+    "static/js/2.26c6c5c2.chunk.js": "/twitter-mern-cli/static/js/2.26c6c5c2.chunk.js",
+    "static/js/2.26c6c5c2.chunk.js.map": "/twitter-mern-cli/static/js/2.26c6c5c2.chunk.js.map",
+    "static/js/3.fac44ac4.chunk.js": "/twitter-mern-cli/static/js/3.fac44ac4.chunk.js",
+    "static/js/3.fac44ac4.chunk.js.map": "/twitter-mern-cli/static/js/3.fac44ac4.chunk.js.map",
+    "index.html": "/twitter-mern-cli/index.html",
+    "static/css/2.ef9168ec.chunk.css.map": "/twitter-mern-cli/static/css/2.ef9168ec.chunk.css.map",
+    "static/css/main.c39df43f.chunk.css.map": "/twitter-mern-cli/static/css/main.c39df43f.chunk.css.map",
+    "static/js/2.26c6c5c2.chunk.js.LICENSE.txt": "/twitter-mern-cli/static/js/2.26c6c5c2.chunk.js.LICENSE.txt",
+    "static/media/bird.7a65b904.png": "/twitter-mern-cli/static/media/bird.7a65b904.png"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.42fef3e5.js",
+    "static/css/2.ef9168ec.chunk.css",
+    "static/js/2.26c6c5c2.chunk.js",
+    "static/css/main.c39df43f.chunk.css",
+    "static/js/main.18b3f1dd.chunk.js"
+  ]
+}

@@ -1,6 +1,6 @@
 {
   "files": {
-    "main.css": "/twitter-mern-cli/static/css/main.dbc3f0c5.chunk.css",
+    "main.css": "/twitter-mern-cli/static/css/main.4e8512ab.chunk.css",
     "main.js": "/twitter-mern-cli/static/js/main.286fd3a0.chunk.js",
     "main.js.map": "/twitter-mern-cli/static/js/main.286fd3a0.chunk.js.map",
     "runtime-main.js": "/twitter-mern-cli/static/js/runtime-main.b192da78.js",
@@ -12,7 +12,7 @@
     "static/js/3.13a21d0d.chunk.js.map": "/twitter-mern-cli/static/js/3.13a21d0d.chunk.js.map",
     "index.html": "/twitter-mern-cli/index.html",
     "static/css/2.ef9168ec.chunk.css.map": "/twitter-mern-cli/static/css/2.ef9168ec.chunk.css.map",
-    "static/css/main.dbc3f0c5.chunk.css.map": "/twitter-mern-cli/static/css/main.dbc3f0c5.chunk.css.map",
+    "static/css/main.4e8512ab.chunk.css.map": "/twitter-mern-cli/static/css/main.4e8512ab.chunk.css.map",
     "static/js/2.fec16a32.chunk.js.LICENSE.txt": "/twitter-mern-cli/static/js/2.fec16a32.chunk.js.LICENSE.txt",
     "static/media/bird.7a65b904.png": "/twitter-mern-cli/static/media/bird.7a65b904.png"
   },
@@ -20,7 +20,7 @@
     "static/js/runtime-main.b192da78.js",
     "static/css/2.ef9168ec.chunk.css",
     "static/js/2.fec16a32.chunk.js",
-    "static/css/main.dbc3f0c5.chunk.css",
+    "static/css/main.4e8512ab.chunk.css",
     "static/js/main.286fd3a0.chunk.js"
   ]
 }
